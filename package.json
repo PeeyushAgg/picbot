@@ -1,0 +1,29 @@
+{
+  "name": "picbot",
+  "version": "1.0.0",
+  "description": "My first bot. Return 10 imae results of requested stuff",
+  "main": "botTry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeeyushAgg/picbot.git"
+  },
+  "keywords": [
+    "picbot",
+    "node",
+    "bot"
+  ],
+  "author": "dhuadaar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeeyushAgg/picbot/issues"
+  },
+  "homepage": "https://github.com/PeeyushAgg/picbot#readme",
+  "dependencies": {
+    "botbuilder": "^0.10.2",
+    "request": "^2.72.0",
+    "restify": "^4.0.4"
+  }
+}
